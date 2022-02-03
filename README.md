@@ -143,7 +143,16 @@ DELETE AUTHETICATOR APP FROM YOUR ACCOUNT
 
 ![Alt Text](https://media.giphy.com/media/bvj7AzJGa0dcbbVKwH/giphy.gif?cid=790b76111a5a1183a9353b62d2ed4937a9fce45bd54052d4&rid=giphy.gif&ct=g)
 
-
+## Contributors ✨
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yogeshrdr"><img src="https://github.com/yogeshrdr.png?size=100" width="100px;" alt=""/><br /><sub><b>Yogesh</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/VAIBHAVJOE101"><img src="https://github.com/VAIBHAVJOE101.png?size=100" width="100px;" alt=""/><br /><sub><b>Vaibhav Joshi</b></sub></a><br /></td>
+  </tr>
+</table>
 
 
 
