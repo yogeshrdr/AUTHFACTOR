@@ -9,7 +9,7 @@
   </a>
 
   <h3 align="center">AUTH FACTOR</h3>
-   <a href="https://github.com/yogeshrdr/AUTHFACTORBACKEND">AUTH BACKEND REPO</a>
+   <a href="https://github.com/yogeshrdr/AUTHFACTORBACKEND">AUTH BACKEND REPO </a>
   <p align="center">
     A TWO FACTOR AUTHETICATOR
     <br />
